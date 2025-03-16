@@ -16,7 +16,7 @@ Predicts house prices in Ames, Iowa using various regression techniques such as:
 ---
 ## Usage
 ```
-git clone https://github.com/code-ishaan/house-price-regression.git
+git clone https://github.com/git-ishaankumar/breast-cancer-classification
 ```
 ```
 pip install -r requirements.txt
